@@ -4,6 +4,22 @@ The well-known **Intelligent Driver Model (IDM)** proposed by Martin Treiber et 
 * **Keywords:** **Straight road**, **bottleneck**, **stop-and-go waves**
 
 
+## Version 3 (v3)
+Stochastic inflow.
+
+
+<table>
+  <tr>
+    <td><img src="v2/txplot1.png" width="400"></td>
+    <td><img src="v2/txplot2.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="v2/txplot3.png" width="400"></td>
+    <td><img src="v2/txplot4.png" width="400"></td>
+  </tr>
+</table>
+
+
 ## Version 2 (v2)
 Straight road with a deceleration bottleneck, resulting in a stop-and-go wave.
 
