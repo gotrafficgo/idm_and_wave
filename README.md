@@ -4,6 +4,8 @@ The well-known **Intelligent Driver Model (IDM)** proposed by Martin Treiber et 
 * **Keywords:** **Straight road**, **bottleneck**, **stop-and-go waves**
 
 
+# Versions and Observations
+
 ## Version 3 (v3): Stochastic inflow
 
 Even though the inflow rate is the same, I found that its stochasticity has a substantial impact on the stop-and-go waves.
