@@ -54,7 +54,28 @@ Take the following figures as examples: although the inflow is consistently arou
 <img src="v1/txplot.png" alt="Diagram" width="500">
 
 
+# Versions and Observations
+@software{gotrafficgo_idm_and_traffic_wave_2025,
+  author = {GitHub user gotrafficgo},
+  title = {idm\_and\_traffic\_wave: Intelligent Driver Model and Traffic Wave Simulator},
+  url = {https://github.com/gotrafficgo/idm_and_traffic_wave},
+  year = {2025}
+}
 
+# Citation
+If you find this work useful, please consider citing the project
+
+> **Intelligent Driver Model and Stop-and-Go Waves: Code and Experiements**  
+> Zhengbing He
+> [GitHub: GoTrafficGo](https://arxiv.org/abs/2507.09648](https://github.com/gotrafficgo/idm_and_traffic_wave)
+
+```bibtex
+@article{he2025constructing,
+  title={Constructing the fundamental diagrams of traffic flow from large-scale vehicle trajectory data},
+  author={He, Zhengbing and Wu, Cathy},
+  journal={arXiv preprint arXiv:2507.09648},
+  year={2025}
+}
 
 
 
