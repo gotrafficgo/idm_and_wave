@@ -9,7 +9,7 @@ The well-known **Intelligent Driver Model (IDM)** proposed by Martin Treiber et 
 ## Version 3 (v3): Stochastic inflow
 
 Even though the inflow rate is the same, I found that its stochasticity has a substantial impact on the stop-and-go waves.
-Take the following figures as examples: although the inflow is consistently around 1430–1440 veh/h, the resulting stop-and-go patterns differ substantially.
+Take the following figures as examples: although the inflow is consistently around 1430~1440 veh/h, the resulting stop-and-go patterns differ substantially.
 
 <table>
   <tr>
