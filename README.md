@@ -72,9 +72,3 @@ If you find this work useful, please consider citing the project
   journal={https://github.com/gotrafficgo/idm_and_traffic_wave},
   year={2025}
 }
-
-
-
-
-
-
