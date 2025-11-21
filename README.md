@@ -7,15 +7,30 @@ The well-known **Intelligent Driver Model (IDM)** proposed by Martin Treiber et 
 ## Version 3 (v3)
 Stochastic inflow.
 
+Even though the inflow rate is the same, I found that its stochasticity has a substantial impact on the stop-and-go waves.
+Take the following figures as examples, the inflow is all around 1430-1440 veh/h, the results are quite different. 
+
 
 <table>
   <tr>
-    <td><img src="v3/Exp_1.png" width="400"></td>
-    <td><img src="v3/Exp_2.png" width="400"></td>
+    <td align="center">
+      <img src="v3/Exp_1.png" width="400"><br>
+      <sub>Experiment 1: Deterministic Inflow (Short-lasting Bottleneck) </sub>
+    </td>
+    <td align="center">
+      <img src="v3/Exp_2.png" width="400"><br>
+      <sub>Experiment 2: Stochastic Inflow (Short-lasting Bottleneck)</sub>
+    </td>
   </tr>
   <tr>
-    <td><img src="v3/Exp_3.png" width="400"></td>
-    <td><img src="v3/Exp_4.png" width="400"></td>
+    <td align="center">
+      <img src="v3/Exp_3.png" width="400"><br>
+      <sub>Experiment 3: Deterministic Inflow (Long-lasting Bottleneck) </sub>
+    </td>
+    <td align="center">
+      <img src="v3/Exp_4.png" width="400"><br>
+      <sub>Experiment 4: Stochastic Inflow (Long-lasting Bottleneck) </sub>
+    </td>
   </tr>
 </table>
 
