@@ -5,7 +5,7 @@ The well-known Intelligent Driver Model (IDM) proposed by Martin Treiber et al (
 
 
 ## Version 2 (v2)
-Straight road with a deceleration bottleneck, resulting in a stop-and-go wave.
+Straight road with a deceleration bottleneck during a given period, resulting in a stop-and-go wave.
 
 * **Bottleneck:** At the end of the road, a mandatory deceleration segment was introduced as a bottleneck, which triggered stop-and-go traffic.
 
