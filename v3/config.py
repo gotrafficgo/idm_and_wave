@@ -21,7 +21,6 @@ class Config:
         self.idm_safety_time_headway = 1     # safety time headway T (s) [recommended: 1.2 ~ 1.5]
         self.idm_acceleration = 1.5          # maximum acceleration a (m/s^2) [recommended: 1.0 ~ 1.2]
         self.idm_desired_deceleration = 2    # comfortable deceleration b (m/s^2) [recommended: 1.2 ~ 1.5]
-        self.idm_delay = 0.4                 # reaction delay τ (s) [recommended: 0.5 ~ 0.6]
 
         self.vehicle_length = 5              # vehicle length L (m)
         self.initial_speed = self.speed_limit  # initial speed (m/s)
